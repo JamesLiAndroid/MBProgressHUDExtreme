@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'MBProgressHUDExtreme_Example' do
+  pod 'MBProgressHUDExtreme', :path => '../'
+
+  target 'MBProgressHUDExtreme_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
