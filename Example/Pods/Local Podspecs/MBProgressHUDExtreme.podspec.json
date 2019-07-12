@@ -1,0 +1,27 @@
+{
+  "name": "MBProgressHUDExtreme",
+  "version": "0.1.0",
+  "summary": "A short description of MBProgressHUDExtreme.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/JamesLiAndroid/MBProgressHUDExtreme",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "JamesLiAndroid": "lisongyang@hoteamsoft.com"
+  },
+  "source": {
+    "git": "https://github.com/JamesLiAndroid/MBProgressHUDExtreme.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MBProgressHUDExtreme/Classes/**/*",
+  "resource_bundles": {
+    "MBProgressHUDExtreme": [
+      "MBProgressHUDExtreme/Assets/*.png"
+    ]
+  }
+}

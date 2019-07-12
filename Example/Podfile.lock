@@ -1,0 +1,16 @@
+PODS:
+  - MBProgressHUDExtreme (0.1.0)
+
+DEPENDENCIES:
+  - MBProgressHUDExtreme (from `../`)
+
+EXTERNAL SOURCES:
+  MBProgressHUDExtreme:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MBProgressHUDExtreme: f2a976b169cef090d9926f1a8b0a462570f9b56c
+
+PODFILE CHECKSUM: eda3dadfcf022b53332f4b51b25d560569dc2a81
+
+COCOAPODS: 1.6.1
